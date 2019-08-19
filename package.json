@@ -1,6 +1,6 @@
 {
-  "name": "nodemt",
-  "version": "1.0.0",
+  "name": "node-spider-novel",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "engines": {
@@ -16,7 +16,8 @@
   "dependencies": {
     "babel-polyfill": "^6.16.0",
     "cheerio": "^0.22.0",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.2",
+    "log4js": "^5.0.0"
   },
   "devDependencies": {
     "babel": "^6.5.2",

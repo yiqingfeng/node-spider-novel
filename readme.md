@@ -1,12 +1,9 @@
 ## 项目说明
 
-> 2016-12-6
-> 本项目初步目标为：  
-> 爬取[魔天](http://www.geilwx.com/GeiLi/120/120974/)的文本信息。
+> 2019-08-18
+>
+> 本项目初步目标为： 支持爬取指定站点的小说内容。（逐步通用）
 
-#### Getting Started
-- Follow the [getting started guide](./docs/getting-started.md) to download and run the project
-- Check the [code recipes](./docs/recipes) used in this boilerplate, or share yours
 
 #### 项目结构:
 ```

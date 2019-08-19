@@ -1,6 +1,8 @@
-.DS_Store
-node_modules/
-npm-debug.log
-dist/
-*.txt
+# ignore project files
 .vscode/
+dist/
+node_modules/
+logs/
+
+.DS_Store
+npm-debug.log
